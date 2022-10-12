@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Quicksand:wght@700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
 body {
@@ -48,12 +50,21 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.Pacifico{
+    font-family: 'Pacifico', cursive;
+}
+
 .btn-four {
     background-color: #A4BC46 ;
 }
 .btn-four:hover {
     background-color: #FABE4C;
     color: white;
+}
+
+.btn-four-nav:hover {
+    background-color: #FABE4C;
+    color: rgb(0, 0, 0);
 }
 
 .border-none{
