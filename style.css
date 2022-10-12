@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Quicksand:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+body {
+    background-color: #FFFBF0;
+   
+}
+.bg-gray{ background-color: #F1F1F1;
+
+}
+.my-bg-primary {
+    background-color: #FFFBF0;
+}
+
+.my-bg-info {
+    background-color: #FABE4C;
+}
+
+.my-bg-third {
+    background-color: #363958;
+}
+
+.my-bg-four {
+    background-color: #A4BC46;
+}
+
+.my-text-primary {
+    color: #FFFBF0;
+}
+
+.my-text-info {
+    color: #FABE4C;
+}
+
+.my-text-third {
+    color: #363958;
+}
+
+.my-text-four {
+    color: #A4BC46;
+}
+
+.bebas-neue {
+    font-family: 'Bebas Neue', cursive !important;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-four {
+    background-color: #A4BC46 ;
+}
+.btn-four:hover {
+    background-color: #FABE4C;
+    color: white;
+}
+
+.border-none{
+    border: none;
+}
+
+.card-hover:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+
+}
+
